@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Video Meeting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="incoming_meeting_invitation">Incoming Meeting Invitation</string>
+    <string name="welcome_to">Welcome To \n Video Meeting | Conference App</string>
+    <string name="sign_in_your_account">Sign in to your account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="do_not_have_account">Don\'t have an account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="required">required</string>
+    <string name="notMatchingPasswords">Passwords does not matched</string>
+    <string name="errorEmail">Please Enter Valid Email</string>
+    <string name="errorPassword">Please Enter more than 6 Characters</string>
+    <string name="enter_valid_email">Please Enter Valid Email</string>
+    <string name="enter_valid_password">Please Enter more than 6 Characters</string>
+    <string name="unable_to_sign_in">Unable to sign in</string>
+    <string name="sign_out">Sign out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sending_meeting_invitation">Sending Meeting Invitation</string>
+</resources>
